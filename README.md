@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Arora</h1>
 <h3 align="center">A passionate machine learning and cybersecurity enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderomaster&label=Profile%20views&color=0e75b6&style=flat" alt="coderomaster" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderOMaster&label=Profile%20views&color=0e75b6&style=flat" alt="CoderOMaster" /> </p>
 
 - 🔭 I’m currently working on **different projects in deep learning**
 
