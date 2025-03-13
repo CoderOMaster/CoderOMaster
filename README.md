@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=CoderOMaster&label=Profile%20views&color=0e75b6&style=flat" alt="CoderOMaster" />
 </p>
 
-- 🔭 **Current Work:** Embarking on diverse projects in deep learning and computer vision, with a keen interest in Large Language Models (LLMs).&#8203;:contentReference[oaicite:0]{index=0}
+- 🔭 **Current Work:** Embarking on diverse projects in deep learning and computer vision, with a keen interest in Large Language Models (LLMs)
 - 👨‍💻 **Portfolio:** :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
 - 📫 **Contact Me:** :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
 - 💼 **Current Position:** :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
