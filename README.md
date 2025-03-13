@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hello, I'm Keshav Arora</h1>
-<h3 align="center">🔍 A Passionate Machine Learning & Cybersecurity Enthusiast</h3>
+<h3 align="center">🔍 A Passionate Machine Learning Researcher </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CoderOMaster&label=Profile%20views&color=0e75b6&style=flat" alt="CoderOMaster" />
 </p>
 
 - 🔭 **Current Work:** Exploring diverse projects in deep learning.
-- 👨‍💻 **Portfolio:** Discover all my projects at [CoderOMaster](https://github.com/CoderOMaster).
+- 👨‍💻 **Portfolio:** Discover all my projects at [CoderOMaster](https://github.com/CoderOMaster) or my website [Portfolio](https://keshavarora.netlify.app/)
 - 📫 **Contact Me:** Reach out via email at keshavarorasci@gmail.com.
 
 <h3 align="center">Connect with Me</h3>
