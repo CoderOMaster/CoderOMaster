@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Keshav Arora</h1>
-<h3 align="center">🔍 A Passionate Machine Learning Researcher </h3>
+<h3 align="center">🔍 A Passionate Machine Learning Researcher and an Active Open Source Contributor </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CoderOMaster&label=Profile%20views&color=0e75b6&style=flat" alt="CoderOMaster" />
