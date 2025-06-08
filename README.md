@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=CoderOMaster&label=Profile%20views&color=0e75b6&style=flat" alt="CoderOMaster" />
 </p>
 
-- 🔭 **Current Work:** Exploring diverse projects in deep learning.
+- 🔭 **Current Work:** Exploring diverse projects in deep learning, generative AI as well as Agentic Systems.
 - 👨‍💻 **Portfolio:** Discover all my projects at [CoderOMaster](https://github.com/CoderOMaster) or my website [Portfolio](https://keshavarora.netlify.app/)
 - 📫 **Contact Me:** Reach out via email at keshavarorasci@gmail.com.
 
