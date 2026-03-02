@@ -65,7 +65,6 @@ I'm always excited to discuss AI research, collaborate on innovative projects, o
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/keshavarorapec)
-[![Instagram](https://img.shields.io/badge/Instagram-@keshav.bash-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/keshav.bash)
 [![Email](https://img.shields.io/badge/Email-keshavarorasci@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:keshavarorasci@gmail.com)
 
 </div>
